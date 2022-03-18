@@ -1,0 +1,9 @@
+Riproducete il layout in allegato usando soltanto il css di Bootstrap (no css custom)
+La documentazione di Bootstrap 5.
+Create il repo su github con nome bootstrap-travel-agency clonatelo in VSCode create la struttura html 5 e importate nell’head il css di Bootstrap per creare gli elementi di layout usate solo le classi che trovate nella documentazione sotto i moduli:
+Layout
+Content
+Utilities
+Se volete usare le card potete cercarle nei Components
+La consegna non prevede che il layout sia responsive.
+Una volta terminata la versione base, se volete potete renderlo responsive come BONUS
